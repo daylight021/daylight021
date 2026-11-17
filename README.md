@@ -1,8 +1,8 @@
-# 👋 Halo, Saya Seorang Pembelajar!
+# 👋 Halo, Saya Daylight!
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Sedang+belajar+dan+terus+berkembang.;Exploring+Code%2C+Building+Ideas.;Belajar+hari+ini%2C+berkembang+setiap+hari](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=600\&lines=Selamat+datang+di+profil+GitHub+saya!;Sedang+belajar+dan+terus+berkembang.;Exploring+Code%2C+Building+Ideas.;Belajar+hari+ini%2C+berkembang+setiap+hari)." alt="Typing SVG" /> \</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Sedang+belajar+dan+terus+berkembang.;Exploring+Code%2C+Building+Ideas.;Belajar+hari+ini%2C+berkembang+setiap+hari.)
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,12,20&height=3&section=header](https://capsule-render.vercel.app/api?type=blur\&color=gradient\&customColorList=6,12,20\&height=3\&section=header)" width="100%" /> \</p>
+---
 
 ### 🧑‍💻 Tentang Saya
 
@@ -18,19 +18,28 @@ Saya percaya bahwa kemampuan tidak datang secara instan, melainkan dibangun mela
 
 ### ⚡ Bahasa Pemrograman
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=js,php,python&theme=dark](https://skillicons.dev/icons?i=js,php,python\&theme=dark)" /> \</p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
 
 ### 🧰 Tools & Technologies
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,laravel,mysql,git,github,vscode,arduino&theme=dark](https://skillicons.dev/icons?i=html,css,laravel,mysql,git,github,vscode,arduino\&theme=dark)" />
-\</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### 📊 Statistik GitHub
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=daylight021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=daylight021\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Statistics" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=daylight021&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=daylight021\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daylight021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-\<p align="center">   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=daylight021&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=daylight021\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daylight021&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daylight021&theme=tokyonight&hide_border=true)
 
 ### 🎯 Tujuan Saya
 
@@ -41,18 +50,12 @@ Saya percaya bahwa kemampuan tidak datang secara instan, melainkan dibangun mela
 
 ### 💭 Prinsip Saya
 
-\<p align="center">
-&#x20; \<i>"Tidak harus menjadi ahli untuk memulai. Mulailah, terus belajar, dan biarkan proses membawamu berkembang."\</i>
-\</p>
+> "Tidak harus menjadi ahli untuk memulai. Mulailah, terus belajar, dan biarkan proses membawamu berkembang."
 
 ---
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,12,20\&height=120\&section=footer)" width="100%" />
-\</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer)
 
-\<p align="center">
-&#x20; \<b>Terima kasih sudah berkunjung! 👋\</b>
-&#x20; \<br/>
-&#x20; \<sub>Belajar • Bereksperimen • Berkembang\</sub>
-\</p>
+**Terima kasih sudah berkunjung! 👋**
+
+*Belajar • Bereksperimen • Berkembang*
