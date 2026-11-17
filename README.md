@@ -35,11 +35,11 @@ Saya percaya bahwa kemampuan tidak datang secara instan, melainkan dibangun mela
 
 ### 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daylight021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=daylight021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daylight021&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daylight021&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daylight021&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=daylight021&theme=tokyonight&hide_border=true)
 
 ### 🎯 Tujuan Saya
 
